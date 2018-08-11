@@ -8,7 +8,7 @@ In the version 1.3:
 - 60 fps hack to Killzone Mercenary.
 
 ## Instalation
-1. Download the latest version of VitaGrafix an paste in PS Vita in the path ux0:/tai.
+1. Download the [latest version](https://github.com/Electry/VitaGrafix/releases) of VitaGrafix an paste in PS Vita in the path ux0:/tai.
 
 2. Add to ux0:/tai/config.txt (or in ur0: if you are using SD2VITA or PSVSD) file after the *KERNEL line.
    - For Persona 4 Golden for USA (PCSE00120), JPN (PCSG00004), EUR (PCSB00245), ASA (PCSH00021). Copy the code for your region game. 
